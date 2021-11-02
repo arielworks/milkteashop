@@ -28,7 +28,7 @@
 /* BANNER AREA */
 .banner-background{
     background: #E6FBF4;
-    height: 100vh;
+    height: 100%;
 }
 .banner-text h1{
     color: #49D6A7;
